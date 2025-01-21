@@ -23,7 +23,7 @@ Rozwiązanie zostało przedstawione poniżej:
 
 ## Przykładowy wykres
 
-Poniższy wykres przedstawia wyniki otrzymane za pomocą zaimplementowanego algorytmu (dla N = 15):
+Poniższy wykres przedstawia wyniki otrzymane za pomocą zaimplementowanego algorytmu (dla N = 300):
 
 ![Wykres](wykres.png)
 
